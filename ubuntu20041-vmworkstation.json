@@ -12,6 +12,7 @@
         "guest_os_type": "ubuntu64Guest",
         "vm_name": "{{ user `vm_name` }}",
         "iso_url": "https://releases.ubuntu.com/20.04/ubuntu-20.04.3-desktop-amd64.iso",
+         "iso_checksum": "5fdebc435ded46ae99136ca875afc6f05bde217be7dd018e1841924f71db46b5"
         "cpus": 2,
         "memory": 2048,
         "headless": "false",
